@@ -1,0 +1,7 @@
+- 👋 ¡Hola, soy Jeferson Wesker!
+- 👀 Me apasiona la tecnología, la programación y resolver problemas con código.
+- 🌱 Actualmente estoy aprendiendo Python, desarrollo web y android, etc.
+- 💞️ Estoy deseando colaborar en proyectos open source o en pequeños desarrollos que me ayuden a mejorar mis habilidades.
+- 📫 Puedes contactarme en caminantes789@gmail.com.
+- 😄 Pronombres: Jeffrey
+- ⚡ Dato curioso: me gustan los videojuegos, peliculas, animes, musica, y todo lo retro.
